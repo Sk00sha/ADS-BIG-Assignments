@@ -1,0 +1,4 @@
+Id of item is: 10, Value is: 9, Weight is: 7, Fragility is: 1
+Id of item is: 2, Value is: 9, Weight is: 5, Fragility is: 1
+optimalna hodnota ruksaku je: 18
+pocet itemov v riksaku je: 2
